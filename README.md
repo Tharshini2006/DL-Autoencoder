@@ -31,9 +31,9 @@ Test the trained model and visualize the original, noisy, and denoised images to
 
 ## PROGRAM
 
-### Name:NIKILA D
+### Name: Tharshini 
 
-### Register Number:212224230187
+### Register Number:212224230287
 
 ```python
 # Autoencoder for Image Denoising using PyTorch
